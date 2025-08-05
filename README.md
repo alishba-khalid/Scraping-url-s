@@ -36,7 +36,8 @@ Each internal link found will be stored in its own row under the URL column.
 1. Clone this repo or download the .py file
 bash
 
-git clone https://github.com/your-username/web-url-scraper.git
+git clone https://github.com/alishba-khalid/Scraping-url-s.git
+
 2. Install the required libraries
 bash
 
